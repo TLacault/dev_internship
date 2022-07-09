@@ -40,17 +40,15 @@
 <!-- Internship Period -->
 ## Internship Period
 
-* <strong>
-The objective of your work experience cycles is to develop both your technical skills, social skills and your
+* <strong>The objective of your work experience cycles is to develop both your technical skills, social skills and your
 allround relational fluency.
-You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.
-</strong>
+You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.</strong>
 
 * <strong>SEE FULL PROJECT DESCRIPTION HERE : [PDF](https://github.com/TLacault/internship/blob/main/B-PRO-300_internship.pdf)</strong>
 
 <br />
 
-<!-- Clone -->
+<!-- Clone The Repository -->
 ## Clone The Repository
 
 * <strong>Clone with HTML</strong>
