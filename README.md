@@ -17,7 +17,7 @@
     <strong>
       <ol>
         <li><a href="#about-the-project">About The Project</a></li>
-        <li><a href="#project-description">Internship Period</a></li>
+        <li><a href="#project-description">Project Description</a></li>
         <li><a href="#clone-the-repository">Clone The Repository</a></li>
         <li><a href="#contact">Contact</a></li>
       </ol>
