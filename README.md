@@ -17,15 +17,15 @@
     <strong>
       <ol>
         <li><a href="#about-the-project">About The Project</a></li>
+        <li><a href="#internship-period">Internship Period</a></li>
         <li><a href="#clone">Clone The Repository</a></li>
-        <li><a href="#description">Project Description</a></li>
         <li><a href="#contact">Contact</a></li>
       </ol>
   </strong>
 </details>
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- About The Project -->
 ## About The Project
 <p align="center">
     <a href="https://github.com/TLacault">
@@ -37,11 +37,10 @@
 
 <br />
 
-<!-- Description -->
-## Description :
-* <strong>INTERSHIP PERIOD</strong>
+<!-- Internship Period -->
+## Internship Period
 
-<strong>
+* <strong>
 The objective of your work experience cycles is to develop both your technical skills, social skills and your
 allround relational fluency.
 You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.
@@ -52,19 +51,19 @@ You are expected to develop your leadership skills through aptitudes such as cur
 <br />
 
 <!-- Clone -->
-## Clone
+## Clone The Repository
 
-* <strong>Clone repo with HTML</strong>
+* <strong>Clone with HTML</strong>
    ```sh
    git clone https://github.com/TLacault/internship.git
    ```
 
-* <strong>Clone repo with SSH</strong>
+* <strong>Clone with SSH</strong>
    ```sh
    git clone git@github.com:TLacault/internship.git
    ```
 
-<!-- CONTACT -->
+<!-- Contact -->
 ## Contact
 
 * <strong>Mail Perso - lacault.tim@gmail.com</strong>
