@@ -44,7 +44,7 @@
 allround relational fluency.
 You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.</strong>
 
-* <strong>SEE FULL PROJECT DESCRIPTION HERE : [PDF](https://github.com/TLacault/internship/blob/main/B-PRO-300_internship.pdf)</strong>
+* <strong>SEE FULL PROJECT DESCRIPTION HERE : [PDF](https://github.com/TLacault/internship/blob/main/project_description.pdf)</strong>
 
 <br />
 
