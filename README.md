@@ -58,6 +58,8 @@ You are expected to develop your leadership skills through aptitudes such as cur
 * <strong>Company Rating : 18.67</strong>
 * <strong>Oral Presentation : 17</strong>
 
+<br />
+
 <!-- Clone The Repository -->
 ## Clone The Repository
 
@@ -70,6 +72,8 @@ You are expected to develop your leadership skills through aptitudes such as cur
    ```sh
    git clone git@github.com:TLacault/internship.git
    ```
+
+<br />
 
 <!-- Contact -->
 ## Contact
