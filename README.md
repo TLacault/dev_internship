@@ -18,6 +18,7 @@
       <ol>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#clone">Clone The Repository</a></li>
+        <li><a href="#rules">Clone The Repository</a></li>
         <li><a href="#contact">Contact</a></li>
       </ol>
   </strong>
@@ -29,11 +30,11 @@
 ## About The Project
 <p align="center">
     <a href="https://github.com/TLacault">
-        <img src="img/internship.png" width="1700" height="400">
+        <img src="img/internship.png">
     </a>
 </p>
 
-<strong>see full internship report -> [Google Drive](https://docs.google.com/document/d/1j08lSMSSrpXG6u6irkWDm7obcu6xRtt9O0C2uesg_pw/edit?usp=sharing) [pdf](https://github.com/TLacault/internship/blob/main/internship_report.pdf) [docx](https://github.com/TLacault/internship/blob/main/internship_report.docx)</strong>
+<strong>see full internship report : [PDF](https://github.com/TLacault/internship/blob/main/internship_report.pdf) </strong>
 
 <br />
 
@@ -46,7 +47,7 @@ allround relational fluency.
 You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.
 </strong>
 
-<strong>see full project description in the repository files -> [pdf](https://github.com/TLacault/internship/blob/main/B-PRO-300_internship.pdf)</strong>
+* <strong>see full project description in the repository files : [PDF](https://github.com/TLacault/internship/blob/main/B-PRO-300_internship.pdf)</strong>
 
 <br />
 
