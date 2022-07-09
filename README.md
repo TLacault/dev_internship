@@ -17,7 +17,7 @@
     <strong>
       <ol>
         <li><a href="#about-the-project">About The Project</a></li>
-        <li><a href="#internship-period">Internship Period</a></li>
+        <li><a href="#project-description">Internship Period</a></li>
         <li><a href="#clone-the-repository">Clone The Repository</a></li>
         <li><a href="#contact">Contact</a></li>
       </ol>
@@ -37,8 +37,8 @@
 
 <br />
 
-<!-- Internship Period -->
-## Internship Period
+<!-- Project Description -->
+## Project Description
 
 * <strong>The objective of your work experience cycles is to develop both your technical skills, social skills and your
 allround relational fluency.
