@@ -16,8 +16,9 @@
   <summary><strong>Table of Contents</strong></summary>
     <strong>
       <ol>
-        <li><a href="#about-the-project">About The Project</a></li>
+        <li><a href="#internship-report">Internship Report</a></li>
         <li><a href="#project-description">Project Description</a></li>
+        <li><a href="#grades-for-this-project">Grades For This Project</a></li>
         <li><a href="#clone-the-repository">Clone The Repository</a></li>
         <li><a href="#contact">Contact</a></li>
       </ol>
@@ -25,8 +26,8 @@
 </details>
 
 
-<!-- About The Project -->
-## About The Project
+<!-- Internship Report -->
+## Internship Report
 <p align="center">
     <a href="https://github.com/TLacault">
         <img src="img/internship.png">
@@ -49,6 +50,13 @@ You are expected to develop your leadership skills through aptitudes such as cur
 * <strong>Or download it here : [DOWNLOAD](https://github.com/TLacault/internship/raw/main/project_description.pdf)</strong>
 
 <br />
+
+<!-- Grades For This Project -->
+## Grades For This Project
+
+* <strong>Internship Report : 19</strong>
+* <strong>Company Rating : 18.67</strong>
+* <strong>Oral Presentation : 17</strong>
 
 <!-- Clone The Repository -->
 ## Clone The Repository
