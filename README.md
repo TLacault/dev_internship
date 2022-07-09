@@ -33,7 +33,8 @@
     </a>
 </p>
 
-* <strong>SEE FULL INTERNSHIP REPORT HERE : [PDF](https://github.com/TLacault/internship/blob/main/internship_report.pdf) </strong>
+* <strong>See the full project description here : [PDF](https://github.com/TLacault/internship/blob/main/internship_report.pdf)</strong>
+* <strong>Or download it here : [DOWNLOAD](https://github.com/TLacault/internship/raw/main/internship_report.pdf)</strong>
 
 <br />
 
@@ -44,7 +45,8 @@
 allround relational fluency.
 You are expected to develop your leadership skills through aptitudes such as curiosity, adaptability, listening skills, empathy, consideration, and motivation.</strong>
 
-* <strong>SEE FULL PROJECT DESCRIPTION HERE : [PDF](https://github.com/TLacault/internship/blob/main/project_description.pdf)</strong>
+* <strong>See the full project description here : [PDF](https://github.com/TLacault/internship/blob/main/project_description.pdf)</strong>
+* <strong>Or download it here : [DOWNLOAD](https://github.com/TLacault/internship/raw/main/project_description.pdf)</strong>
 
 <br />
 
