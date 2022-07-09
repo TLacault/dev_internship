@@ -33,7 +33,7 @@
     </a>
 </p>
 
-* <strong>See the full project description here : [PDF](https://github.com/TLacault/internship/blob/main/internship_report.pdf)</strong>
+* <strong>See the full internship report here : [PDF](https://github.com/TLacault/internship/blob/main/internship_report.pdf)</strong>
 * <strong>Or download it here : [DOWNLOAD](https://github.com/TLacault/internship/raw/main/internship_report.pdf)</strong>
 
 <br />
