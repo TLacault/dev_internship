@@ -65,12 +65,12 @@ You are expected to develop your leadership skills through aptitudes such as cur
 
 * <strong>Clone with HTML</strong>
    ```sh
-   git clone https://github.com/TLacault/internship.git
+   git clone https://github.com/TLacault/dev_internship.git
    ```
 
 * <strong>Clone with SSH</strong>
    ```sh
-   git clone git@github.com:TLacault/internship.git
+   git clone git@github.com:TLacault/dev_internship.git
    ```
 
 <br />
@@ -79,5 +79,5 @@ You are expected to develop your leadership skills through aptitudes such as cur
 ## Contact
 
 * <strong>Mail Perso - lacault.tim@gmail.com</strong>
-* <strong>Mail Pro - contact@dev-tlacault.eu</strong>
+* <strong>Mail Pro - contact@timlacault.dev</strong>
 * <strong>Mail Université - tim.lacault@etu.u-bordeaux.fr</strong>
