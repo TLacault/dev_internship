@@ -81,5 +81,3 @@ You are expected to develop your leadership skills through aptitudes such as cur
 * <strong>Mail Perso - lacault.tim@gmail.com</strong>
 * <strong>Mail Pro - contact@dev-tlacault.eu</strong>
 * <strong>Mail Université - tim.lacault@etu.u-bordeaux.fr</strong>
-
-* <strong>Project Link : </strong>[Intership](https://github.com/TLacault/internship)
